@@ -1,16 +1,3 @@
----
-title: IDM VTON
-emoji: 👕👔👚
-colorFrom: yellow
-colorTo: red
-sdk: gradio
-sdk_version: 4.24.0
-app_file: app.py
-pinned: false
-license: cc-by-nc-sa-4.0
-short_description: High-fidelity Virtual Try-on using Diffusion Models
----
-
 # IDM-VTON: AI-Powered Virtual Try-On System
 
 <div align="center">
